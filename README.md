@@ -1,2 +1,12 @@
 # Sea-Ice-Arctic-Visualization
 Merupakan visualisasi untuk pencairan es yang terjadi di Arktik. Pencairan es sendiri merupakan dampak dari terjaidnya pemanasan global. Pencairan es ini memberikan dampak negatif kepada bumi.
+
+Data yang digunakan untuk visualisasi data ini adalah data dari National Snow and Ice Data Center (NSIDC). NSIDC di Universitas Colorado Boulder (CU Boulder), merupakan bagian dari Institut Penelitian Lingkungan CU Boulder (CIRES) yang melakukan penelitian inovatif dan menyediakan data terbuka untuk memahami bagaimana bagian beku bumi memengaruhi planet ini dan berdampak pada masyarakat. Penelitian dan data berfokus pada salju, es, gletser, tanah beku, dan interaksi iklim yang membentuk kriosfer bumi. Data yang digunakan merupakan data Sea Ice Index (https://nsidc.org/data/g02135/versions/4#anchor-data-access-tools). Sea ice index memberikan gambaran cepat tentang perubahan es laut di seluruh wilayah Arktik dan Antarktika. Indeks ini merupakan sumber data yang konsisten dan terkini mengenai luas dan konsentrasi es laut mulai dari November 1978 hingga saat ini. Gambar dan data dihasilkan secara konsisten, sehingga seri waktu Indeks ini cocok untuk menganalisis tren jangka panjang. Dataset yang tersedia adalah dataset bulanan dan harian. Namun, dataset bulanan lebih disarankan untuk analisis tren jangka panjang karena kesalahan dalam produk harian cenderung teredam dalam dataset bulanan, dan variasi harian sering kali disebabkan oleh kondisi cuaca jangka pendek.
+
+Dalam konteks ini, visualisasi data diperlukan karena beberapa alasan, yaitu:
+1)	Melihat tren sejauh mana sea ice mencair
+Data tentang luas es laut merupakan data yang besar dan kompleks, dengan variasi waktu dan ruang yang luas. Visualisasi memungkinkan audiens untuk memahami pola, tren, dan perubahan dalam luas es laut (sebagai dampak dari pemanasan global) seiring waktu.
+2)	Menggali informasi secara cepat
+Visualisasi dapat membantu dalam eksplorasi data yang lebih efisien sehingga korelasi antar variabel, perubahan bulanan, dan anomali dapat dengan mudah diidentifikasi tanpa harus menelaah tabel data mentah yang rumit.
+3)	Mendukung pengambilan keputusan berbasis data
+Dengan visualisasi, para stakeholder dapat membuat keputusan yang lebih tepat dan cepat berdasarkan data pengamatan yang jelas dan informatif, misalnya dalam konteks perubahan iklim dan mitigasi risiko bencana lingkungan.
